@@ -21,7 +21,7 @@ body {
 
 .intro-chunk {
   max-width: 350px;
-  padding-left: 16px;
+  padding: 0 16px;
 }
 
 header {
@@ -44,7 +44,7 @@ main {
   width: fit-content;
   padding: 8px 32px;
   margin-top: 0;
-  margin-left: -24px;
+  margin-left: -32px;
 }
 
 strong {
